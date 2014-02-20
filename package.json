@@ -1,0 +1,17 @@
+{
+  "name": "namer",
+  "version": "0.0.0",
+  "description": "Use this to give a name to route",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allevo/express-namer.git"
+  },
+  "author": "allevo",
+  "license": "MIT License",
+  "readmeFilename": "README.md",
+  "gitHead": "4f7d124f3dff4c632b110ce6677eb3a9ca34cdda"
+}
